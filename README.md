@@ -1,1 +1,1 @@
-# JS_Assignments
+# Arkanoid_MiniProject
