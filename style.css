@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Impact, Charcoal, sans-serif;
+  background-image: url("download.jpg");
+}
+
+#myForm{
+  text-align: center;
+
+}
+
+#confirmed{
+  text-align: center;
+  
+}
+#recovered{
+  text-align: center;
+  
+}
+#death{
+  text-align: center;
+  
+}
+#results{
+  background-color: white;
+  align-content: center;
+  
+
+}
