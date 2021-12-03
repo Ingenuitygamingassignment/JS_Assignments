@@ -1,5 +1,5 @@
 // import * as PIXI from 'pixi.js';
-import './css/main.scss';
+
 import { Application, Ticker } from 'pixi.js';
 
 // eslint-disable-next-line import/extensions,import/no-unresolved
@@ -9,11 +9,11 @@ window.onload = () => {
   const app = new Application({
     width: 1400,
     height: 1050,
-    backgroundColor: 0x003b00,
-    // resizeTo: window,
+    backgroundColor: 0xa81315,
+   
     sharedTicker: true,
     sharedLoader: true,
-    // resolution: window.devicePixelRatio
+ 
   });
 
   document.body.appendChild(app.view);
